@@ -2,4 +2,4 @@
 target = "arm-unknown-linux-gnueabihf"
 
 [target.arm-unknown-linux-gnueabihf]
-linker = "~/rpi-tools/arm-bcm2708/arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc"
+linker = "tools/arm-bcm2708/arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc"
