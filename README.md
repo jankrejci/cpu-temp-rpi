@@ -41,5 +41,5 @@ apt install -y gcc
 ```
 
 ```
-https://github.com/raspberrypi/tools.git ~/.rpi-tools
+https://github.com/raspberrypi/tools.git
 ```
