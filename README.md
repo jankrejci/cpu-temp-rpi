@@ -28,6 +28,10 @@ Add your public key to the allowed keys on host.
 ```
 ssh-copy-id -i ~/.ssh/rpi_rsa.pub pi@PI_IP_ADDRESS
 ```
+Add key to ssh agent
+```
+ssh-add ~/.ssh/rpi_rsa
+```
 Now you can log to the RPi without password.
 
 ## Cross compilation
