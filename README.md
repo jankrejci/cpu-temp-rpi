@@ -47,3 +47,8 @@ apt install -y gcc
 ```
 https://github.com/raspberrypi/tools.git
 ```
+
+## Test
+```
+stress -c 4 -t 600
+```
