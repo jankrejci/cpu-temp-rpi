@@ -1,3 +1,4 @@
+#[derive(Clone)]
 pub struct Kalman {
     gain: f64,
     process_variance: f64,
