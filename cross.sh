@@ -7,4 +7,4 @@ docker run \
 	-it \
 	--network="host" \
 	rpi-cross-compile-image \
-    $@
+    "$@"
